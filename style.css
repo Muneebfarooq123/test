@@ -63,6 +63,13 @@ html,body {
         text-align: center;
         align-items: center;
     }
+      .title{
+          font-size: 40px;
+      }
+
+      .top{
+          font-size: 17px;
+      }
   }
   
   /* Typography */
